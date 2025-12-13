@@ -4,14 +4,18 @@ This is my first time working and learning in a practical way about classes. For
 ## 📁 Project Structure
 
 First-Time-Working-With-Classes/
-├── my_first_classes/        # Learning progression with classes
-│   ├── character_basic(V1).py
-│   ├── character_firsts_methods(V2).py
-│   ├── character_corrected(V3).py
-│   └── character_final(V4).py
-└── mini_game/               # Interactive character creation
-    ├── make_your_character.py
-    └── make_your_character_V2(final).py
+
+my_first_classes
+    # Learning progression with classes
+- V1_character_basic.py
+- V2_character_firsts_methods.py
+- V3_character_corrected(V3).py
+- V4_character_final.py
+  
+mini_game
+    # Interactive character creation
+- V1_make_your_character.py
+- V2_make_your_character_(final).py
 
 ## 🎮 My First Classes
 
